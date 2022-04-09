@@ -1,6 +1,6 @@
 @import "./bulma.min.css";
 .hero-body {
-  background: linear-gradient(90deg, #006cff 0%, #eb52ff 100%);
+  background: linear-gradient(45deg, #006cff 0%, #eb52ff 100%);
   display: flex;
   justify-content: center;
   align-items: center;
