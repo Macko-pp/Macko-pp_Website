@@ -1,27 +1,26 @@
-@import "bulma.min.css";
-
+@import "./bulma.min.css";
 .hero-body {
-  	background: linear-gradient(90deg, #006cff 0%, #eb52ff 100%);
-  	display: flex;
-  	justify-content: center;
-  	align-items: center;
+  background: linear-gradient(90deg, #006cff 0%, #eb52ff 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .box {
-  	position: absolute;
-  	left: auto;
-  	top: 37%;
+  position: absolute;
+  left: auto;
+  top: 37%;
 }
 
 .range {
-  	position: absolute;
-  	left: auto;
-  	top: auto;
-	accent-color: #eb52ff;
+  position: absolute;
+  left: auto;
+  top: auto;
+  accent-color: #eb52ff;
 }
 
 .button {
-  	position: absolute;
-  	left: auto;
-  	top: 53%;
+  position: absolute;
+  left: auto;
+  top: 53%;
 }
