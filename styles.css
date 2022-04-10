@@ -1,4 +1,15 @@
 @import "./bulma.min.css";
+
+.github {
+  padding: 0px;
+  padding-right: 7.5px;
+}
+
+.email {
+  padding-left: 7.5px;
+  padding-right: 40px;
+}
+
 .hero-body {
   background: linear-gradient(45deg, #006cff 0%, #eb52ff 100%);
   display: flex;
