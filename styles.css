@@ -1,17 +1,6 @@
 @import "./bulma.min.css";
-
-.github {
-  padding: 0px;
-  padding-right: 7.5px;
-}
-
-.email {
-  padding-left: 7.5px;
-  padding-right: 40px;
-}
-
 .hero-body {
-  background: linear-gradient(45deg, #006cff 0%, #eb52ff 100%);
+  background: linear-gradient(90deg, #006cff 0%, #eb52ff 100%);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -20,14 +9,18 @@
 .box {
   position: absolute;
   left: auto;
-  top: 37%;
+  top: 36%;
 }
 
 .range {
   position: absolute;
   left: auto;
-  top: auto;
+  top: 49%;
   accent-color: #eb52ff;
+}
+
+.button:hover {
+  background-color: rgb(235, 235, 235);
 }
 
 .button {
